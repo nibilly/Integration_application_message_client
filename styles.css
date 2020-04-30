@@ -1,5 +1,115 @@
 h1
 {
-    color: #033f99;
+
     margin:16px;
+
 }
+
+form
+{
+    padding-left: 0.5%;
+}
+
+body
+{
+    background-color : #F9FAFF;
+}
+
+#accueil
+{
+    padding: 1%;
+}
+
+#events
+{
+    border-top: 1px solid #327366;
+    border-bottom: 1px solid #327366;
+    padding: 5%;
+}
+
+#datejour
+{
+    font-style: bold;
+}
+
+.button {
+    border:none;
+    padding:10px 10px 10px 10px;
+    border-radius:2px;
+    box-shadow:1px 1px 3px #aaa;
+    background:#fff;
+    font:bold 13px ;
+    color:#000E29;
+}
+
+#buttonevent
+{
+    margin-bottom : 2%;
+}
+
+
+
+#complet
+{
+    margin-top : 2%;
+}
+
+
+
+
+
+label
+{
+    width: 120px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 6px;
+}
+
+fieldset {
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+#utilisateur
+{
+    margin: 15px;
+}
+
+
+.agenda {
+
+    width:70%;
+    padding : 5%;
+; }
+
+/* Dates */
+.agenda .agenda-date { width: 170px; }
+.agenda .agenda-date .dayofmonth {
+    width: 40px;
+    font-size: 36px;
+    line-height: 36px;
+    float: left;
+    text-align: right;
+    margin-right: 10px;
+}
+.agenda .agenda-date .shortdate {
+    font-size: 0.75em;
+}
+
+
+/* Times */
+.agenda .agenda-time { width: 140px; }
+
+
+/* Events */
+.agenda .agenda-events {  }
+.agenda .agenda-events .agenda-event {  }
+
+a
+{
+
+    padding-left :2%;
+}
+
+
